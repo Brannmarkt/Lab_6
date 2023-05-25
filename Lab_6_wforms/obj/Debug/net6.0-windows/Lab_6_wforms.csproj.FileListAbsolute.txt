@@ -1,0 +1,17 @@
+E:\Projects\Lab_6\Lab_6_wforms\bin\Debug\net6.0-windows\Lab_6_wforms.exe
+E:\Projects\Lab_6\Lab_6_wforms\bin\Debug\net6.0-windows\Lab_6_wforms.deps.json
+E:\Projects\Lab_6\Lab_6_wforms\bin\Debug\net6.0-windows\Lab_6_wforms.runtimeconfig.json
+E:\Projects\Lab_6\Lab_6_wforms\bin\Debug\net6.0-windows\Lab_6_wforms.dll
+E:\Projects\Lab_6\Lab_6_wforms\bin\Debug\net6.0-windows\Lab_6_wforms.pdb
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.csproj.AssemblyReference.cache
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.Form1.resources
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.csproj.GenerateResource.cache
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.AssemblyInfoInputs.cache
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.AssemblyInfo.cs
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.csproj.CoreCompileInputs.cache
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.dll
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\refint\Lab_6_wforms.dll
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.pdb
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\Lab_6_wforms.genruntimeconfig.cache
+E:\Projects\Lab_6\Lab_6_wforms\obj\Debug\net6.0-windows\ref\Lab_6_wforms.dll
